@@ -1,0 +1,12 @@
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/config/WebConfig.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/Services/UserServiceImpl.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/model/Followers.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/Dao/UserDao.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/config/MyWebAppInitializer.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/config/AppConfig.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/model/Content.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/Services/UserService.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/Dao/UserDaoImpl.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/model/User.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/controller/PixogramRestController.java
+/home/vcnr/pixogramweb/src/main/java/com/pixogram/model/FeedBack.java
